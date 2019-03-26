@@ -22,5 +22,5 @@ class AppAsset extends AssetBundle
         'yii\web\YiiAsset',
         'yii\bootstrap\BootstrapAsset',
     ];
-    public $cssOptions = ['condition' => 'lte IE9'];
+    //public $cssOptions = ['condition' => 'lte IE9'];
 }
